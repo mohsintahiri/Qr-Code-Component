@@ -46,6 +46,7 @@ main{
 
 .primary-text{
   height: 52px;
+  color: #1f314f;
   font-family: Outfit;
   font-size: 22px;
   line-height: 120%;
@@ -56,6 +57,7 @@ main{
 
 .secondary-text{
   height: 63px;
+  color: #68778d;
   font-family: Outfit;
   font-size: 15px;
   line-height: 140%;
